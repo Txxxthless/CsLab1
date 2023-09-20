@@ -1,0 +1,14 @@
+D:\CSProjects\cslab1\obj\Debug\net6.0\cslab1.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSProjects\cslab1\obj\Debug\net6.0\cslab1.AssemblyInfoInputs.cache
+D:\CSProjects\cslab1\obj\Debug\net6.0\cslab1.AssemblyInfo.cs
+D:\CSProjects\cslab1\obj\Debug\net6.0\cslab1.csproj.CoreCompileInputs.cache
+D:\CSProjects\cslab1\bin\Debug\net6.0\cslab1.exe
+D:\CSProjects\cslab1\bin\Debug\net6.0\cslab1.deps.json
+D:\CSProjects\cslab1\bin\Debug\net6.0\cslab1.runtimeconfig.json
+D:\CSProjects\cslab1\bin\Debug\net6.0\cslab1.dll
+D:\CSProjects\cslab1\bin\Debug\net6.0\cslab1.pdb
+D:\CSProjects\cslab1\obj\Debug\net6.0\cslab1.dll
+D:\CSProjects\cslab1\obj\Debug\net6.0\refint\cslab1.dll
+D:\CSProjects\cslab1\obj\Debug\net6.0\cslab1.pdb
+D:\CSProjects\cslab1\obj\Debug\net6.0\cslab1.genruntimeconfig.cache
+D:\CSProjects\cslab1\obj\Debug\net6.0\ref\cslab1.dll
